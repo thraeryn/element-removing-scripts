@@ -9,7 +9,7 @@
 // @grant        GM_addStyle
 // ==/UserScript==
 
-var chatPane = document.getElementById('live-chat');
+var chatPane = document.getElementById('chat-block');
 if (chatPane) {
     chatPane.parentNode.removeChild(chatPane);
 }
