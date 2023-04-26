@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Remove Fite.tv Chat
-// @version      0.5
+// @version      0.75
 // @description  As it says on the tin.
 // @author       Tim Thraeryn
 // @homepage     https://thraeryn.red/
